@@ -10,7 +10,7 @@ CPU     | Quad-core 1.2 GHz Cortex-A53
 Chipset | Qualcomm MSM8916 Snapdragon 410
 GPU     | Adreno 306
 Memory  | 1/2 GB RAM
-Shipped Android Version | 6.0.1
+Shipped Android Version | 7.1.1
 Storage | 8/16 GB
 MicroSD | Up to 32 GB
 Battery | Li-Ion 2800mAh battery
